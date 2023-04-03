@@ -38,3 +38,6 @@ _'main()'_: Initializes the game and manages the game loop, event handling, draw
 
 
 -> Thank you I hope you enjoy
+
+_>P1 is single player 
+_>P2 is 2 player
